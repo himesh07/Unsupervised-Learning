@@ -1,4 +1,4 @@
-![Unsupervised Learning on Credit Approval Dataset](/Users/admin/Downloads/Final Project/Cover "Unsupervised Learning on Credit Approval Dataset")
+![image](https://pasteboard.co/n4JJ4kGyN0sN.png))
 
 # Unsupervised Learning on Credit Approval Dataset
 Welcome to the "Unsupervised Learning on Credit Approval Dataset" project repository. This project delves into the intriguing world of unsupervised machine learning techniques applied to a credit card approval dataset. By harnessing the power of exploratory data analysis, dimensionality reduction, and clustering algorithms, this project aims to predict credit card approvals and uncover underlying patterns within the data.
