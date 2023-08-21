@@ -14,7 +14,7 @@ This directory contains the credit approval dataset in CSV format.<br>
 Notebook: 
 Explore the step-by-step process of data preprocessing, exploratory data analysis, dimensionality reduction, clustering, and performance evaluation.<br>
 Presentation: 
-Powerpoint used for video presentation.
+Powerpoint used for video presentation.<br>
 README.md:
 You are here! This document provides an introduction to the project and guides you through its contents.
 
