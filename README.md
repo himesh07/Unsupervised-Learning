@@ -9,10 +9,14 @@ The pivotal concept of dimensionality reduction comes into play through Principa
 Our exploration culminates in the visualization of clusters, where we use joint plots and swarm plots to depict the arrangement of data points within clusters. Performance evaluation metrics such as the Adjusted Rand Index, Silhouette Score, and Calinski Harabasz Score provide a comprehensive understanding of our models' accuracy, separation quality, and cluster compactness.
 
 ## Repository Contents
-<b>Data:<b> This directory contains the credit approval dataset in CSV format.<br>
-<b>Notebook:<b> Explore the step-by-step process of data preprocessing, exploratory data analysis, dimensionality reduction, clustering, and performance evaluation.<br>
-<b>Presentation:<b> Powerpoint used for video presentation.<br>
-<b>README.md:<b> You are here! This document provides an introduction to the project and guides you through its contents.
+### Data: 
+This directory contains the credit approval dataset in CSV format.<br>
+### Notebook: 
+Explore the step-by-step process of data preprocessing, exploratory data analysis, dimensionality reduction, clustering, and performance evaluation.<br>
+### Presentation: 
+Powerpoint used for video presentation.
+### README.md:
+You are here! This document provides an introduction to the project and guides you through its contents.
 
 ## How to Use This Repository
 Clone the repository to your local machine using the following command:
