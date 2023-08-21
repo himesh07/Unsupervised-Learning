@@ -10,8 +10,11 @@ Our exploration culminates in the visualization of clusters, where we use joint 
 
 ## Repository Contents
 <b>Data:<b> This directory contains the credit approval dataset in CSV format.
+
 <b>Notebook:<b> Explore the step-by-step process of data preprocessing, exploratory data analysis, dimensionality reduction, clustering, and performance evaluation.
+
 <b>Presentation:<b> Powerpoint used for video presentation.
+
 <b>README.md:<b> You are here! This document provides an introduction to the project and guides you through its contents.
 
 ## How to Use This Repository
